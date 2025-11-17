@@ -13,25 +13,45 @@ Our primary goal is to complete the entire Hugging Face LLM Course, including al
 III: Methodology and work plan
 
 Setup:
+
 Create GitHub repository with a clear directory structure
+
 Setup CoLab configuration for GPU access
+
 At the end of each week, we will upload all notebooks and scripts from each module completed that week as well as a summary of the key takeaways from those sections.
+
 Week 1: Nov 17-23
+
 Transformer Models
+
 Using Transformers
+
 Fine Tuning a Pre Trained Model
+
 Sharing Models and Tokenizers
+
 Week 2: Nov 24-30
+
 The Datasets Library
+
 The Tokenizers Library
+
 Classical NLP Tasks
+
 How to Ask for Help
+
 Week 3: Dec 1-7
+
 Building and Sharing Demos
+
 Curate High Quality Datasets
+
 Fine Tune Large Language Models
+
 Build Reasoning Models
+
 Week 4: Dec 8-14
+
 Write final lab report
 
 IV: Division of Responsibilities:
@@ -39,14 +59,23 @@ IV: Division of Responsibilities:
 Both team members will independently complete every module to ensure that we both learn the full material and have the foundations required for each subsequent module. Organizational duties will be divided to keep the workload organized and fairly divided.
 
 Katherine:
+
 Responsible for organizing code for odd numbered chapters
+
 Writes the lab notebook entries for those modules
+
 Updates GitHub with documented files
+
 Creates summaries for odd numbered chapters
+
 Colette: 
+
 Responsible for organizing code for even numbered chapters
+
 Writes the lab notebook entries for those modules
+
 Updates GitHub with documented files
+
 Creates summaries for even numbered chapters
 
 Responsibilities will alternate by chapter, but all learning and coding will be completed by both members. We will meet regularly to ensure consistency across the repository and final report.
