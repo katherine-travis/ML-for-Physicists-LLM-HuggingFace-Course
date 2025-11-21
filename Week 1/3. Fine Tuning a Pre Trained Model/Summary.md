@@ -1,1 +1,3 @@
+# Summary
 
+A pre-trained model can be adapted to a new task through fine-tuning, where its existing weights are updated on a smaller, task-specific dataset. This process is efficient because the model already understands general language patterns from large-scale pre-training, so fine-tuning only needs to adjust higher-level representations. During training, learning curves, which are plots of loss or accuracy over time, help reveal whether the model is improving, overfitting, or underfitting. A healthy learning curve shows training loss decreasing and validation loss following it closely, while divergence signals that training should be adjusted.
