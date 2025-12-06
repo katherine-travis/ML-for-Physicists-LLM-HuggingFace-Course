@@ -1,4 +1,4 @@
-## Summary of Chapter 10: Curate High-Quality Datasets
+# Summary of Chapter 10: Curate High-Quality Datasets
 
 Chapter 10 teaches how to use Argilla to annotate and curate datasets for training and evaluating models. Existing Hub datasets may not align with specific applications or use cases, necessitating custom dataset creation and curation. Argilla allows users to turn unstructured data into structured data for NLP tasks.
 
