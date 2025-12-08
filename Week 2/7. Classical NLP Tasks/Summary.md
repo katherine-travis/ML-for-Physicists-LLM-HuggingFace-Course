@@ -1,1 +1,3 @@
+## Summary
 
+Classical NLP tasks involve applying pretrained or fine-tuned transformer models to standard language problems such as text classification, token classification, question answering, and text generation. The course explains how each task maps to specific input–output formats and how Hugging Face provides task specific pipelines and model heads that simplify training and inference. It also highlights how datasets for these tasks are structured, how labels or spans are represented, and how evaluation metrics differ between tasks. Through these examples, the section shows how modern transformers serve as flexible, unified architectures that can handle a wide range of traditional NLP tasks using consistent APIs.
